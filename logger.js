@@ -13,11 +13,6 @@ var logger = bunyan.createLogger({
 		{
 			level: 'error',
 			stream: process.stdout,
-		},
-		{                   // Insert this point to use the live logger 
-			level: 'trace',
-			stream: live(),
-			type:"raw"
 		}
 	]
 });
