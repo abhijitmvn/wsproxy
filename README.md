@@ -1,2 +1,2 @@
-# wsproxy v0.2 ![Build status](http://54.221.216.166:4001/abhijitmvn/wsproxy/badge?branch=master)
-proxy for cloud to devic socket communication
+# wsproxy v0.2 ![Build status][(http://54.221.216.166:4001/abhijitmvn/wsproxy/badge?branch=master)]
+proxy for cloud to device socket communication
